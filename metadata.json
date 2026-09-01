@@ -1,0 +1,7 @@
+{
+  "name": "ToolNova",
+  "description": "Free Online Tools for Everyone - 25+ fast, private, browser-based utilities for images, text, developer tasks, and everyday calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
